@@ -109,4 +109,8 @@
 4. 确认付款信息+网盘好友后，分享对应资源或拉到对应资源群组
 
 
+#科学**上网工具  穿墙   梯子
+
+稳定运行的上网工具，可以用来访问国外的google，youtube等。通过我注册送你3元现金： ![链接](https://find.trojanxisbest.top/auth/register?code=NH11)
+
 </details>
