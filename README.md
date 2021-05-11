@@ -124,9 +124,7 @@
 
 # 付费方式
 
-可以直接微信好友转账，可以扫描下面二维码付款，支持微信、支付宝、QQ三种方式。
-
-![收款码](./img/[聚合码]-学习资料库.png)
+支持多种方式的付款，包括信用卡、花呗。
 
 
 # 资源获取流程
@@ -139,6 +137,6 @@
 
 #科学**上网工具  穿墙   梯子
 
-稳定运行的上网工具，可以用来访问国外的google，youtube等。通过我注册送你3元现金： ![链接](https://find.trojanxisbest.top/auth/register?code=NH11)
+稳定运行的上网工具，可以用来访问国外的google，youtube等。通过我注册送你3元现金： [链接](https://find.trojanxisbest.top/auth/register?code=NH11)
 
 </details>
