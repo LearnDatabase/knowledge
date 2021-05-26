@@ -3,18 +3,12 @@
 # 资源分类及收费标准
 
 
-## 资源一：全网VIP会员学习群 
-价格：**99 元/永久**
+## 资源一：热门平台会员学习群 
+价格：**199 元/永久**
 
 目录可以搜到的资源，有偿分享！全网云课堂学习资源的首选！
 
-全网VIP会员学习群目录：[全网VIP会员学习群社群目录](https://note.youdao.com/ynoteshare1/index.html?id=a01f8f5fea136c7afe61708c2e0638a6&type=note)
-
-另外，目录中平台资源支持单个出售：20元/个。购买请参考[操作流程](https://shimo.im/docs/9UBe8LqvkxwMAwSq/read)
-
-内容包含(不止于此)：
-
-![资源目录1](./img/tc01.png) 
+热门平台会员学习群目录：[热门平台会员学习群目录](https://share.mubu.com/doc/4HtEFQbvIiG)
 
 
 ## 资源二：考研/考证/公考类 代更新
