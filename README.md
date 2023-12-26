@@ -1,93 +1,303 @@
-# knowledge
+
+
+# 资源分类及收费标准
+
+## 资源一: 知识付费-网盘群
+
+价格：**299元/永久会员  588元/永久会员+代理**
+
+
+详细资源目录可访问：[详细目录](https://path.dirts.cn/z159879991)
+
+### 内容包含：
+
+<b><details><summary>**01.成人学习平台**</summary></b>
+
+    01 豆瓣 
+    02 网易云 
+    03 知乎 
+    04 华尔街学堂 
+    05 商学院 
+    06 吴小波频道【完更】 
+    07 看理想 
+    08 许梣全集 
+    09 电商淘宝推广等 
+    10 抖音短视频等 
+    11 湛卢【完结】 
+    12 功夫财经 
+    13 蜻蜓【完结】 
+    14.壹心理 
+    16 财经&金融 
+    17 keep运动健身【合集】 
+    18 办公课 
+    19.长投学堂 
+    20 参哥课程 
+    21抖音专区 
+    22.三节课 
+    23.壹职场 
+    24 老梁故事会【新版】 
+    25、少数派 
+    26.创业邦 
+    27.36 氪 
+    28.馒头商学院 
+    29.彭小六 
+    30 十点课堂 
+    31 千聊 
+    32 曾仕强合集全套 
+    33 荔枝微课 
+    35 唯库 
+    36 腾讯课堂 
+    37 医学养生冥想类 
+    38 体制内课程 
+    39 国学风水 
+    40 极客时间 
+    41 B站 
+    42 写作阅读读书类 
+    43 Excel, word, PPT等 
+    44 大师班课程合集 
+    45 一书一课 
+    46 李笑来的课 
+    47 李永乐老师V+ 
+    48 齐昊全集 
+    49万门大学 
+    50摄影专区 
+    51 成人英语 
+    52 大鹏美术 
+    52.B站 
+    53 樊登知识超市 
+    54 考研数学 
+    55 叔贵独创 
+    56 四六级英语考试 
+    57 徐远观察 
+    58 有道精品课 
+    59 珍大户-认知世界的经济学 
+    60.壹心理 
+    61.抖音热门课程合集 
+    62、慕课 
+    63、馒头商学院 
+    64、千 聊 
+    65、米课 
+    66、890商学院 
+    67.插座学院 
+    成人终身学习 
+    其他精品课 
+    英语类 
+    整理中的平台 
+
+</details>
+
+<b><details><summary>**02.亲子平台1**</summary></b>
+
+    早教课程25个平台
+    41.教师课件班主任资源
+    40.人教版小初高课件
+    39 亲子素材
+    38 钢琴基础入门至高级班教程
+    37 电子琴教程
+    36.【假日博物馆】
+    35.未泱阅读
+    34.RAZ视频全套
+    32.山楂树阅读
+    30.奥斯卡英语
+    29.【编程scratch】
+    28.大陆博士
+    27.童行学院
+    26.许尤佳育儿
+    26.山楂阅读
+    24.喜马拉雅亲子
+    24.爱豆
+    22.【高思数学】
+    21.【i陪娃】
+    20.【小鱼老师系列】
+    20.【火花思维】
+    19.哈佛外教百科英语
+    19.【李岑老师系列】
+    18.樊登小读者
+    17.成长兔英语（宝宝玩英语）
+    17.【兰登】
+    16.【曾曦老师系列】
+    15.【海尼曼】
+    14.贝壳英语S1
+    14.【北外网课】
+    13.【你拍一】
+    12.【憨爸】
+    11.云舒写
+    10【完结】童老师牛津阅读树1-9阶
+    09.跟谁学
+    08.华语未来
+    07.米粒妈
+    06.摩比
+    05.少年商学院
+    04.外滩教育
+    03.新东方绘本馆
+    02.迪士尼电影108部中英字幕
+    01.精选英语动画（推荐，已分级）
+
+</details>
+
+<b><details><summary>**03.小初高1**</summary></b>
+
+    01.233网校，同桌100语数英1-6年级 
+    03.北京四中初中课程 
+    04.大鹏书法（毛笔） 
+    05.逗你学 
+    06.抖音 
+    07.高途初中 
+    08.高途高中 
+    10.高途小学 
+    17.螺蛳语文 
+    18.蘑菇网校 
+    19 猿辅导编程L1-L2 
+    19.人教版初中英语 视频 课件等 
+    2.花生酥系列 
+    20.人教A版高中数学 
+    21 有道高中 
+    22.书虫【L0-L6】 
+    23.孙维刚数学 
+    24.小学北师大数学 
+    25 有道初中 
+    26.新东方新概念英语 
+    27 万门初中 
+    28.洋葱学院 
+    29 万门高中 
+    30 万门小学 
+    31 学而思2019（新课在学习资料2） 
+    9 堂豆学初中化学 
+    初中各平台网课 
+    高中各平台网课 
+    小学生专题大全套 
+</details>
+
+<b><details><summary>**04.会员专区**</summary></b>
+～～大师课V i p 
+~~电子书ＶＩｐ 
+～～设计V i p 
+15西马拉呀 
+IT专区 
+成人学习平台 
+电商专区VIP 
+短视频专区 
+法律专区 
+股票投资专区 
+考公考编考教师专区 
+考证专区 
+网赚副业专区 
+心理学会员VIP 
+英语专区 
+瑜伽健身区 
+中医专区 
+</details>
+
+## 资源二：云海副业平台
+价格：**限时98元：推广80%收益+全站终身VIP+社群指导**
+
+![推广图](./img/云海副业1.jpg)
+![推广图](./img/云海副业2.jpg)
+
+![海报](./img/云海副业-海报1.jpg)
+![海报](./img/云海副业-海报2.jpg)
+
+**开通指南**
+1.自助开通
+![开通指南](./img/云海副业-开通指南.jpg)
+2.添加微信：LearnDatabase 转账后台开通
+## 其他资源： 
+
+### 百度网盘扩容     
+
+价格：**200元/100T/永久**
+
+	流程：
+	1.用户提供网盘号
+	2.付费
+	3.扩容
+	4.自己完美存储各种资源
+
+### 至尊课堂  
+价格：**39.9元**
+
+目录请移步 [资源列表-至尊课堂](./list/至尊课堂资源目录.md)
+
+### 微淼课堂  
+价格：**69.9元**
+
+目录请移步 [资源列表-微淼课堂](./list/目录树：F微淼课程.txt)
+
+### 曾仕强管理系列视频资源 
+
+价格：**69.9元**
+	
+	共91部 85G资源，购买资源一送该资源
+
+### 袁腾飞全集 
+
+价格：**69.9元**
+
+
+目录请移步 [资源列表1-腾飞最终版](./list/腾飞最终版目录.txt)
+ [资源列表1-袁腾飞全集](./list/目录树：50.袁腾飞.txt)
 
 
 
-## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+# 售后服务
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+<b><details><summary>一、购买永久套餐资源可终身学习</summary></b>
 
-## Add your files
+不管你是学生，还是工作党
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+不管你是自用，还是兼职赚钱
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/LearnDatabase/knowledge.git
-git branch -M main
-git push -uf origin main
-```
+上述套餐都是一个不错的选择。
 
-## Integrate with your tools
+所有资料永久免费使用，持续更新（每周都会有专人更新）。
 
-- [ ] [Set up project integrations](https://gitlab.com/LearnDatabase/knowledge/-/settings/integrations)
 
-## Collaborate with your team
+</details>
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+<b><details><summary>二、免费代更新</summary></b>
 
-## Test and Deploy
+所有资源都有专业团队负责整理更新，可放心使用，网盘群资料定期每月更新一次。
 
-Use the built-in continuous integration in GitLab.
+</details>
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+<b><details><summary>三、代理资源</summary></b>
 
-***
+资源允许自行使用，也可以有偿出售给他人，价格你定，收入全归你。
+如果要拉其他人进资源群，需要交一部分的管理费，不同的资源不同的收费标准，详情请咨询客服。
 
-# Editing this README
+</details>
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
 
-## Suggestions for a good README
+# 联系我们
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+我的微信：**LearnDatabase**
 
-## Name
-Choose a self-explaining name for your project.
+添加请备注：**获取付费资源**
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+否则不予以通过！！！
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+![二维码](./img/wx_qrcode.jpg)
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+百度网盘：**儒雅的学习之路**
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+添加请备注：姓名+资源类型，否则不予通过
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+![网盘二维码](./img/儒雅的学习之路.jpg)
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+# 百度网盘资源获取流程
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+1. 添加微信好友，确定资源类型
+2. 付款
+3. 加百度网盘好友
+4. 确认付款信息+网盘好友后，分享对应资源或拉到对应资源群组
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+具体流程可以参考：[流程](https://www.mubu.com/doc/lfmgdiaVEG)
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+#科学**上网工具  穿墙   梯子
 
-## License
-For open source projects, say how it is licensed.
+稳定运行的上网工具，可以用来访问国外的google，youtube等。通过我注册送你3元现金： [链接](https://find.trojanxisbest.top/auth/register?code=NH11)
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+</details>
